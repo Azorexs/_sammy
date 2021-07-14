@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Hyperz!](https://hyperz.dev/) (Follow Me!)
+## hey 👋, im [sammy](https://github.com/Azorexs)
 
 hi gamers. my name is sammy and i code in lua a tad bit
 
